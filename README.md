@@ -36,7 +36,7 @@ tests/                            Reproducibility checks
 | RND | Road-network density |
 | GI | Grazing intensity |
 
-The large factor rasters are not stored in GitHub. The processed table is sufficient to reproduce the risk and GeoDetector calculations. See [`data/metadata/DATA_DICTIONARY.md`](data/metadata/DATA_DICTIONARY.md) for every field and [`data/metadata/DATA_PROVENANCE.md`](data/metadata/DATA_PROVENANCE.md) for source and period notes. Raw-raster download information will be added to [`docs/BAIDU_NETDISK_UPLOAD_CHECKLIST.md`](docs/BAIDU_NETDISK_UPLOAD_CHECKLIST.md) after the archive is uploaded.
+The large factor rasters are not stored in GitHub. The processed table is sufficient to reproduce the risk and GeoDetector calculations. See [`data/metadata/DATA_DICTIONARY.md`](data/metadata/DATA_DICTIONARY.md) for every field and [`data/metadata/DATA_PROVENANCE.md`](data/metadata/DATA_PROVENANCE.md) for source and period notes. The model-used raster archive is available from [Baidu Netdisk](https://pan.baidu.com/s/1Q4sTCZZHINJ-OI2PRKCfGA?pwd=1ru9) with extraction code `1ru9`; its contents are documented in [`docs/BAIDU_NETDISK_UPLOAD_CHECKLIST.md`](docs/BAIDU_NETDISK_UPLOAD_CHECKLIST.md).
 
 ## Methods
 

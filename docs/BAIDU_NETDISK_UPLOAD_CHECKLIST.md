@@ -1,6 +1,12 @@
-# Raw-raster archive checklist
+# Raw-raster archive download and checklist
 
-The raw-raster download link is pending. After the archive is uploaded, add the Baidu Netdisk URL, extraction code, archive size and SHA-256 here.
+## Download
+
+- Share name: `长城风险性研究文章数据分享`
+- Baidu Netdisk: https://pan.baidu.com/s/1Q4sTCZZHINJ-OI2PRKCfGA?pwd=1ru9
+- Extraction code: `1ru9`
+
+The link remains available only while the owner keeps the shared files in the Baidu Netdisk account and the share stays active. A DOI-based research repository is preferable for permanent publication. Archive size and SHA-256 can be added after they are recorded locally.
 
 ## Recommended archive contents
 

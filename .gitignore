@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated analysis
+results/generated/
+*.log
+*.lock
+tmp/
+temp/
+
+# Large geospatial data and archives are distributed separately
+raw_data/
+data/raw/
+*.tif
+*.tiff
+*.img
+*.adf
+*.ovr
+*.aux.xml
+*.shp
+*.shx
+*.dbf
+*.sbn
+*.sbx
+*.prj
+*.cpg
+*.zip
+*.7z
+*.rar
+
+# Prevent accidental publication of credentials or local settings
+.env
+.env.*
+*credential*
+*credentials*
+*password*
+*token*
+*ftp_download*.txt
+
+# Excel workbooks are ignored unless explicitly tracked below
+*.xlsx
+!data/processed/analysis_input.xlsx
+
+# Office temporary files and local copies
+~$*
+*-副本.xlsx
+* - 副本.xlsx
+*.before_*.py
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

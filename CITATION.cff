@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the repository and the associated paper when it becomes available."
+title: "GIS-driven integrated environmental risk assessment and mechanism analysis for the Ming Great Wall"
+type: software
+version: 1.0.0
+date-released: 2026-10-28
+authors:
+  - family-names: Feng
+    given-names: Haixia
+  - family-names: Hu
+    given-names: Qingwu
+  - family-names: Zheng
+    given-names: Daoyuan
+  - family-names: Zhang
+    given-names: Xujie
+  - family-names: Wang
+    given-names: Shunli
+  - family-names: Zhao
+    given-names: Xinge
+  - family-names: Li
+    given-names: Jiayuan
+repository-code: "https://github.com/fenghx0904/Risk-assessment-for-Ming-Great-Wall"
+url: "https://github.com/fenghx0904/Risk-assessment-for-Ming-Great-Wall"
+license: CC-BY-4.0

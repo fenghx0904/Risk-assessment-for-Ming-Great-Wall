@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=75", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "great-wall-risk"
+version = "1.0.0"
+description = "Risk assessment and GeoDetector workflow for the Ming Great Wall"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "CC-BY-4.0"}
+authors = [{name = "Ming Great Wall risk assessment team"}]
+dependencies = [
+  "numpy==2.5.4",
+  "pandas==3.0.1",
+  "scikit-learn==1.9.1",
+  "scipy==1.18.1",
+  "jenkspy==0.4.1",
+  "openpyxl==3.1.5",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
